@@ -16,5 +16,6 @@
 
 #### GoogleNet을 이용한 유사 일기도 검색
 ###### Boundary Problem과 계절별 요인을 고려하여 구축한 각각의 모델에 대해 37년동안 약 3450개 날짜에 대해 3-D tensor를 형성한 뒤, 입력날짜와 나머지 모든 날짜에 대해 Mean Squared Error를 계산하여 유사도가 높은 순으로 상위 20개 랭킹을 매김
->> I
+![similarity](https://user-images.githubusercontent.com/37501153/39923024-ee771bba-555c-11e8-891e-c44c3c1a3646.PNG)
+
 
