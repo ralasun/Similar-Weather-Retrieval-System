@@ -24,7 +24,8 @@
 ##### AlexNet과 AutoEncoder와 Inception-v1와의 결과 
 ![result](https://user-images.githubusercontent.com/37501153/39923676-a32b69d8-555f-11e8-80ea-c058700add64.PNG)
 
-#### 결과2
+### 결과2
 ##### 2016년 10월 31일을 입력했을 때, 1순위를 제외한 2순위 날짜 모델별 비교
+![2](https://user-images.githubusercontent.com/37501153/39923861-650fe1f0-5560-11e8-8dc2-e3a0848b113b.png)
 
 
